@@ -1,3 +1,6 @@
 [submodule "Leaves-Image-Classificator"]
 	path = Leaves-Image-Classificator
 	url = https://github.com/GianlucaRub/Leaves-Image-Classificator
+[submodule "Time-Series-Forecasting"]
+	path = Time-Series-Forecasting
+	url = https://github.com/GianlucaRub/Time-Series-Forecasting
