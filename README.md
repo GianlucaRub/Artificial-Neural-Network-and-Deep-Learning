@@ -11,7 +11,7 @@ This repository contains the projects assignments for the course Artificial Neur
 at Politecnico di Milano.
 Each folder contains a notebook with the final model of each project and a report explaining all the work done.
 
-In particular, each homework comprises the following implementations:
+In particular, each project comprises the following implementations:
 
 |         **Folder**         |                                                                                                                **Project Description**                                                                                                                 |
 |:--------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
